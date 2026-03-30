@@ -2,7 +2,7 @@
 
 
 
-# <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40"/> Bom ver você!
+# <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40"/> Bem vindo!
 
 #### Sou o Enzo. <br> Dev apaixonado por criar aplicações web, do banco de dados ao render.
 
@@ -28,9 +28,3 @@
 ![Beekeeper Studio](https://img.shields.io/badge/Beekeeper_Studio-2C2C2C?style=for-the-badge&logo=beekeeper-studio&logoColor=white)
 
 ---
-
-## 📊 Estatísticas GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnezYk&layout=compact&theme=tokyonight)
-
-</div>
